@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Diplom">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Diplom.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
